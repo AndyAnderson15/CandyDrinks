@@ -16,7 +16,7 @@ La pagina web tiene acceso a la base de datos sobre los productos. La Web es acc
 * GitHub
 * Postman
 
-# FrontEnd
+# FrontEnd (carpeta cliente)
 * Visual Studio Code
 * Angular
 * Bootstrap
@@ -24,7 +24,7 @@ La pagina web tiene acceso a la base de datos sobre los productos. La Web es acc
 * Google Fonts
 * Toastr
 
-# BackEnd
+# BackEnd (carpeta servidor)
 * MongoDB (MongoDB Atlas y MongoDB Compass)
 * Nodemon
 * NodeJS

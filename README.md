@@ -31,6 +31,13 @@ La pagina web tiene acceso a la base de datos sobre los productos. La Web es acc
 * Express
 * Mongoose
 
+# Wiki 🌐
+<html>
+<body>
+  <p>Si deseas mas información del proyecto ingresa a nuestra  <a href="https://github.com/AndyAnderson15/CandyDrinks/wiki/Realizaci%C3%B3n-del-Proyecto">Wiki</a></p>
+</body>
+</html>
+
 # Autor 💻
 * <p>Anderson Ladino - <a href="https://github.com/AndyAnderson15">AndyAnderson15</a></p>
 

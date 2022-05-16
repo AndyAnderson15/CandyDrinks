@@ -1,5 +1,4 @@
 # Candy-Drinks
-Proyecto - Septimo Semestre 
 # Descripción 📊
 Establecimiento que ofrece comida y bebidas a precio económico, con diferentes tipos de menu, estamos dispuesto a solventar cualquier inquietud del cliente.
 
